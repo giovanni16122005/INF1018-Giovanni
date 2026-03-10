@@ -46,6 +46,6 @@ int main(void) {
     dump(&dolar, sizeof(dolar));
 
     return 0;
-}
+}git push
 //Um int normalmente ocupa 4 bytes.
 //No computador, os bytes estão em ordem little-endian.
